@@ -1,0 +1,83 @@
+{
+	"ID": "hardpointdatadef_ionvulture",
+	"HardpointData": [{
+			"location": "leftarm",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_ionvulture_lefttorso_laser_eh1",
+					"chrprfweap_ionvulture_lefttorso_ppc_eh1"
+				],
+				[
+					"chrprfweap_ionvulture_lefttorso_ams_bh5"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_ionvulture_rightarm_ac2_bh1",
+					"chrprfweap_ionvulture_rightarm_ac10_bh1",
+					"chrprfweap_ionvulture_rightarm_gauss_bh1",
+					"chrprfweap_ionvulture_rightarm_laser_eh1",
+					"chrprfweap_ionvulture_rightarm_lbx10_bh1",
+					"chrprfweap_ionvulture_rightarm_ppc_eh1"
+				],
+				[
+					"chrprfweap_ionvulture_rightarm_laser_eh2",
+					"chrprfweap_ionvulture_rightarm_ac2_bh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_ionvulture_righttorso_laser_eh1",
+					"chrprfweap_ionvulture_righttorso_ppc_eh1"
+				],
+				[
+					"chrprfweap_ionvulture_righttorso_ams_bh5"
+				]
+			],
+				"blanks": [],
+				"mountingPoints": []
+			},
+		{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_ionvulture_leftarm_ac2_bh1",
+					"chrprfweap_ionvulture_leftarm_ac10_bh1",
+					"chrprfweap_ionvulture_leftarm_gauss_bh1",
+					"chrprfweap_ionvulture_leftarm_laser_eh1",
+					"chrprfweap_ionvulture_leftarm_lbx10_bh1",
+					"chrprfweap_ionvulture_leftarm_ppc_eh1"
+				],
+				[
+					"chrprfweap_ionvulture_leftarm_laser_eh2",
+					"chrprfweap_ionvulture_leftarm_ac2_bh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+			{
+				"location": "head",
+				"weapons": [],
+				"blanks": [],
+				"mountingPoints": []
+			}
+		]
+
+	}

@@ -2323,7 +2323,39 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },	
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_ac10_bh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionvulture/chrPrfComp_ionvulture_simgame.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ionvulturebase-001.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionvulture/chrPrfComp_ionvulture_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionvulture/chrPrfComp_ionvulture_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_lbx10_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_lbx10_bh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_righttorso_ams_bh5.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionvulture/chrprfweap_ionvulture_lefttorso_ams_bh5.prefab", "AssetBundleName": "chrprfmech_ionvulturebase-001" }
 	
     ]
 }

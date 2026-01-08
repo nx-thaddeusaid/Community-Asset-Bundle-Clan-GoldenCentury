@@ -27,6 +27,7 @@ Woodsman
 Ion Naga
 Bowman
 Glass Spider Update
+Ion Vulture
 
 SmallRobotsInAContainer/Napes
 Models:
