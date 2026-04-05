@@ -87,3 +87,7 @@ Mercury II
 AshTree and Transient74
 Models:
 Grizzly
+
+NerdyTB
+Models:
+Marauder IIC 2

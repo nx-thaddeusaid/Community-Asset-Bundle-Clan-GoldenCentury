@@ -2,6 +2,10 @@ Changelog for CAB-Clan-GoldenCentury
 
 -----------------------------------------------------
 
+1.8
+
+Added the Marauder IIC 2
+
 1.7
 
 Added the Ion Vulture
