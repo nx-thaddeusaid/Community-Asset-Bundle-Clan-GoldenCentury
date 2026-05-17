@@ -5,13 +5,13 @@
             "location" : "leftarm",
             "weapons" : [
 			[
-			"chrprfweap_bowman_leftarm_laser_eh1",
+			"chrprfweap_bowman_leftarm_laser_eh1"
 			],
 			[
-			"chrprfweap_bowman_leftarm_laser_eh2",
+			"chrprfweap_bowman_leftarm_laser_eh2"
 			],
 			[
-			"chrprfweap_bowman_leftarm_laser_eh3",
+			"chrprfweap_bowman_leftarm_laser_eh3"
 			]
 			],
             "blanks" : [],

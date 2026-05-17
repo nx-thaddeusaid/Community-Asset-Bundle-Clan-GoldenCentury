@@ -1,12 +1,6 @@
 {
 	"ID": "hardpointdatadef_ionvulture",
 	"HardpointData": [{
-			"location": "leftarm",
-			"weapons": [],
-			"blanks": [],
-			"mountingPoints": []
-		},
-		{
 			"location": "lefttorso",
 			"weapons": [
 				[
